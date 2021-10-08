@@ -13,7 +13,7 @@ provider:
 
 functions:
   users:
-    handler: handler.handler
+    handler: lambda.handler
     events:
       - s3:
           bucket: bucket-cloudcomputing-final-3265
