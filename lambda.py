@@ -15,7 +15,7 @@ event = {
             "eventTime": "2021-10-05T22:06:22.249Z",
             "eventName": "ObjectCreated:Put",
             "userIdentity": {
-                "principalId": "AWS:AROAUEEI57RFQI7NEGZIM:user1582523=rm341695@fiap.com.br"
+                "principalId": "AWS:AROAUEEI57RFQI7NEGZIM:user=email@email.com.br"
             },
             "requestParameters": {
                 "sourceIPAddress": "189.18.28.22"
